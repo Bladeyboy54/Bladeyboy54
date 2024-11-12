@@ -52,7 +52,7 @@ _For a complete list of my projects, check out the [repositories section](https:
 <div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bladeyboy54&show_icons=true&theme=highcontrast" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bladeyboy54&layout=compact&theme=highcontrast" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bladeyboy54&layout=donut&theme=highcontrast" height="165" />
   </p>
 </div>
 
